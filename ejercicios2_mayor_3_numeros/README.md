@@ -5,6 +5,7 @@
 ## Analisis 
 
 ### definicion de variables
+
 * a: primer numero
 * b: seegundo numero 
 * b: Tercer  numero 
